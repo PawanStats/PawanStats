@@ -1,6 +1,6 @@
 ## # Hi, I'm Pawan! 👋
 
-![Pawan's LinkedIn Banner](https://github.com/PawanStats/PawanStats/commit/64e37d8af4a4676782dcb32a57e70fe4259c6314)
+![Pawan's LinkedIn Banner](https://github.com/PawanStats/PawanStats/blob/main/Pawan%20-%20Cover-image.png)
 
 ---
 
