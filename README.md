@@ -1,8 +1,10 @@
-## # Hi, I'm Pawan! 👋
+
 
 ![Pawan's LinkedIn Banner](https://github.com/PawanStats/PawanStats/blob/main/Pawan%20-%20Cover-image.png)
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C25BF7&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
 
 ## About Me
 
