@@ -1,4 +1,4 @@
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/728ea09b-6503-412b-af36-0bd211351444" />![Pawan's LinkedIn Banner](https://raw.githubusercontent.com/PawanStats/PawanStats/main/Pawan%20-%20Cover-image.png)
+(https://raw.githubusercontent.com/PawanStats/PawanStats/main/Pawan%20-%20Cover-image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Pawan+..;Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
 
@@ -50,4 +50,4 @@ I am a passionate Data Analyst and aspiring Quantitative Analyst with a strong f
 </div>
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats)](https://github.com/PawanStats/github-readme-stats)
