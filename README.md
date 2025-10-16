@@ -1,4 +1,4 @@
-![Pawan's LinkedIn Banner](https://raw.githubusercontent.com/PawanStats/PawanStats/main/Pawan%20-%20Cover-image.png)
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/728ea09b-6503-412b-af36-0bd211351444" />![Pawan's LinkedIn Banner](https://raw.githubusercontent.com/PawanStats/PawanStats/main/Pawan%20-%20Cover-image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Pawan+..;Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
 
@@ -37,5 +37,17 @@ I am a passionate Data Analyst and aspiring Quantitative Analyst with a strong f
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6862d2e-8218-45c2-904e-a10403d3c495" />
+### 📊 GitHub Stats:
+
+<div align="center">
+  
+  [![PawanStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br/>
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanStats&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
 
