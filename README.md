@@ -30,7 +30,7 @@
 
 
 ### 📊 GitHub Stats:
-[![PawanStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![PawanStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark)](https://github.com/PawanStats/github-readme-stats)
 
 <br/> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanStats&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
