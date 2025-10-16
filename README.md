@@ -35,3 +35,7 @@ I am a passionate Data Analyst and aspiring Quantitative Analyst with a strong f
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6862d2e-8218-45c2-904e-a10403d3c495" />
+
