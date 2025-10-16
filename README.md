@@ -1,4 +1,4 @@
-![Pawan's Cover Image](Pawan - Cover-image.png)
+![Pawan's Cover Image](<Pawan - Cover-image.png>)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Pawan+..;Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
 
