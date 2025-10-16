@@ -1,6 +1,9 @@
+Building robust analytical models and actionable intelligence.
+
 ![Pawan's Cover Image](<Pawan - Cover-image.png>)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Pawan+..;Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
 
+**Transforming complex data into clear, actionable insights. As a Data Analyst and Quantitative Analyst, I focus on turning data into simple, effective models and visualizations for smart decision-making.**
 
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
