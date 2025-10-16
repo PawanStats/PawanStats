@@ -8,13 +8,6 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xe_stoner?t=ZbRMXVg2wzoU9e_q5Yt7Qg&s=09)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](Your_Medium_URL_Here)
 
-
-## 🚀 My Latest Projects
-- [Project Title 1](link-to-project-1)
-  - *Short description of project 1*
-- [Project Title 2](link-to-project-2)
-  - *Short description of project 2*
-
  
 ## 💻 Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
