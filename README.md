@@ -39,15 +39,12 @@ I am a passionate Data Analyst and aspiring Quantitative Analyst with a strong f
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  
-  [![PawanStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <br/>
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanStats&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats:
 
-</div>
+[![PawanStats's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanStats&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats)](https://github.com/PawanStats/github-readme-stats)
+
+
