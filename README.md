@@ -1,9 +1,5 @@
 # Summary:
-I am a final year B.Tech Information Technology student with a strong interest in financial markets and
-technology. I am skilled in Python, machine learning, and data analysis using libraries like pandas and
-NumPy. I have developing quantitative strategies by applying data analysis and machine learning, and
-building backends for trading platforms. I want to apply my analytical and programming skills as a
-quantitative analyst or data analyst.
+Data-driven IT student skilled in developing quantitative stratergies and building predictive models using Python and SQL. Core technical expertise includes Pandas, NumPy, Scikit-learn, TensorFlow and Streamlit for data analysis and full-stack project deployment. Eager to apply analytical skills as a Data Analyst.
 
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
