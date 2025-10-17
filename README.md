@@ -1,6 +1,9 @@
-![Pawan's Cover Image](<Pawan - Cover-image.png>)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+;I+am+Pawan+..;Data+Analyst;Quantitative+Analyst)](https://git.io/typing-svg)
-
+# Summary:
+I am a final year B.Tech Information Technology student with a strong interest in financial markets and
+technology. I am skilled in Python, machine learning, and data analysis using libraries like pandas and
+NumPy. I have developing quantitative strategies by applying data analysis and machine learning, and
+building backends for trading platforms. I want to apply my analytical and programming skills as a
+quantitative analyst or data analyst.
 
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
