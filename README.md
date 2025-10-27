@@ -1,5 +1,5 @@
 # Summary:
-Data-driven IT student skilled in developing quantitative stratergies and building predictive models using Python and SQL. Core technical expertise includes Pandas, NumPy, Scikit-learn, TensorFlow and Streamlit for data analysis and full-stack project deployment. Eager to apply analytical skills as a Data Analyst.
+Data-driven IT student skilled in developing quantitative stratergies and building predictive models using Python and SQL. Core technical expertise includes Pandas, NumPy, Scikit-learn, TensorFlow and Streamlit for data analysis and full-stack project deployment.
 
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
