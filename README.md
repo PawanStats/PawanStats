@@ -1,6 +1,16 @@
-# Summary:
-Data-driven IT student skilled in developing quantitative stratergies and building predictive models using Python and SQL. Core technical expertise includes Pandas, NumPy, Scikit-learn, TensorFlow and Streamlit for data analysis and full-stack project deployment.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pawan Dighore
+======================================================================================================================================
 
+Quantitative Developer , Full Stack AI Developer
+------------------------------------------------
+
+I specialize in R&D and AI-driven full-stack solutions tailored for quantitative development and enterprise automation. I build the intelligent infrastructure that helps Quants transform complex data into actionable alpha, while developing AI systems to automate and scale core Business processes .
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [pawandighore6@gmail.com](mailto:pawandighore6@gmail.com)
+* 🧠  I'm currently learning Multi-agent AI workflows and Low-latency financial systems.
+* 👥  I'm looking to collaborate on Quantitative research tools, AI financial agents, and high-performance trading dashboards.
+* 💬  Ask me about I don't just write code; I build systems that eliminate manual work and solve financial complexities.
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawandighore22@gmail.com)
