@@ -41,5 +41,3 @@ I specialize in R&D and AI-driven full-stack solutions tailored for quantitative
 ### 📊 GitHub Stats:
 
 ---[span_17](start_span)![](https://github-readme-stats.vercel.app/api?username=PawanStats&theme=dark&hide_border=false&include_all_commits=false&count_private=false)[span_17](end_span)
-[span_18](start_span)![](https://nirzak-streak-stats.vercel.app/?user=PawanStats&theme=dark&hide_border=false)[span_18](end_span)
-[span_19](start_span)![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanStats&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)[span_19](end_span)
