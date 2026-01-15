@@ -9,8 +9,8 @@ I specialize in R&D and AI-driven full-stack solutions tailored for quantitative
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pawandighore6@gmail.com](mailto:pawandighore6@gmail.com)
 * 🧠  I'm currently learning Multi-agent AI workflows and Low-latency financial systems.
-* 👥  I'm looking to collaborate on Quantitative research tools, AI financial agents, and high-performance trading dashboards.
-* 💬  Ask me about I don't just write code; I build systems that eliminate manual work and solve financial complexities.
+* 👥 I'm looking to collaborate on Autonomous AI agents, Full Stack AI architectures, and real-time financial data platforms.
+* 💬  Ask me about I don't just write code; I build systems that eliminate manual work and solve complexities.
 ## 🔗Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-dighore-5ba02530a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawandighore22@gmail.com)
@@ -40,4 +40,4 @@ I specialize in R&D and AI-driven full-stack solutions tailored for quantitative
 
 ### 📊 GitHub Stats:
 
----[span_17](start_span)![](https://github-readme-stats.vercel.app/api?username=PawanStats&theme=dark&hide_border=false&include_all_commits=false&count_private=false)[span_17](end_span)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark&count_private=true)
