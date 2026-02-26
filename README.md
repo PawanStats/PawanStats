@@ -40,6 +40,18 @@ Full Stack AI Developer , Quantitative Developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PawanStats&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" />
+</p>
+
+<p align="center">
+  <b>🦈 Pull Shark</b> &nbsp; | &nbsp;
+  <b>🎯 YOLO</b> &nbsp; | &nbsp;
+  <b>⚡ Quickdraw</b>
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
