@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pawan Dighore
 ======================================================================================================================================
 
-Quantitative Developer , Full Stack AI Developer
+Full Stack AI Developer , Quantitative Developer 
 ------------------------------------------------
 
 I specialize in R&D and AI-driven full-stack solutions tailored for quantitative development and enterprise automation. I build the intelligent infrastructure that helps Quants transform complex data into actionable alpha, while developing AI systems to automate and scale core Business processes .
