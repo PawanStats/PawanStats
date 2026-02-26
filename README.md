@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack AI Developer , Quantitative Developer 
 ------------------------------------------------
-
-I specialize in R&D and AI-driven full-stack solutions tailored for quantitative development and enterprise automation. I build the intelligent infrastructure that helps Quants transform complex data into actionable alpha, while developing AI systems to automate and scale core Business processes .
+​I am currently a Full-Stack AI Developer Intern focused on creating AI-driven applications and agentic automation. I work with Python and modern web tools to build backend services, integrate LLMs, and automate real-world workflows. I also have a strong interest in trading technology and financial systems.
 
 
 * 🌍  I'm based in India
