@@ -40,4 +40,7 @@ I specialize in R&D and AI-driven full-stack solutions tailored for quantitative
 
 ### 📊 GitHub Stats:
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanStats&show_icons=true&theme=dark&count_private=true)
+![](https://github-profile-trophy.vercel.app/?username=PawanStats&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
