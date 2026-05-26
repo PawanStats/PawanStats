@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pawan Dighore
 ======================================================================================================================================
 
-Full Stack AI Developer , Quantitative Developer 
+Full Stack AI Developer  
 ------------------------------------------------
 ​I am currently a Full-Stack AI Developer Intern focused on creating AI-driven applications and agentic automation. I work with Python and modern web tools to build backend services, integrate LLMs, and automate real-world workflows. I also have a strong interest in trading technology and financial systems.
 
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [pawandighore6@gmail.com](mailto:pawandighore6@gmail.com)
+* ✉️  You can contact me at [pawandighore22@gmail.com](mailto:pawandighore22@gmail.com)
 * 🧠  I'm currently learning Multi-agent AI workflows and Low-latency financial systems.
 * 👥 I'm looking to collaborate on Autonomous AI agents, Full Stack AI architectures, and real-time financial data platforms.
 * 💬  Ask me about I don't just write code; I build systems that eliminate manual work and solve complexities.
