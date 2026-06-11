@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack AI Developer  
 ------------------------------------------------
-​I am currently a Full-Stack AI Developer Intern focused on creating AI-driven applications and agentic automation. I work with Python and modern web tools to build backend services, integrate LLMs, and automate real-world workflows. I also have a strong interest in trading technology and financial systems.
+​I am currently a Full-Stack AI Developer  focused on creating AI-driven applications and agentic automation. I work with Python and modern web tools to build backend services, integrate LLMs, and automate real-world workflows. I also have a strong interest in trading technology and financial systems.
 
 
 * 🌍  I'm based in India
