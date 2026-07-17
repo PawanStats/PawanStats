@@ -58,3 +58,50 @@ Full Stack AI Developer
 [![](https://visitcount.itsvg.in/api?id=PawanStats&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## NIFTY 50 Short Straddle Backtest (Dhan API)
+
+A Python backtest is available at:
+
+- `/home/runner/work/PawanStats/PawanStats/nifty_short_straddle_backtest.py`
+
+### Strategy implemented
+
+- Underlying reference: NIFTY spot/index
+- Entry: 09:17 AM
+- Position: Short ATM CE + Short ATM PE (same strike, same nearest weekly expiry)
+- Stoploss: Exit both legs if combined premium rises by 25% from entry
+- Time exit: Buy back the original sold CE and PE at 03:10 PM if stoploss is not hit
+- Lookback default: last 3 years
+
+### Credentials (environment variables)
+
+```bash
+export DHAN_CLIENT_ID="your_client_id"
+export DHAN_ACCESS_TOKEN="your_access_token"
+```
+
+### Run
+
+```bash
+python /home/runner/work/PawanStats/PawanStats/nifty_short_straddle_backtest.py
+```
+
+Optional arguments:
+
+```bash
+python /home/runner/work/PawanStats/PawanStats/nifty_short_straddle_backtest.py \
+  --start-date 2023-01-01 \
+  --end-date 2026-01-01 \
+  --stoploss-pct 0.25 \
+  --output-dir /home/runner/work/PawanStats/PawanStats/output
+```
+
+### Output
+
+- `nifty_short_straddle_trades.csv` (trade-level results)
+- `nifty_short_straddle_summary.json` (summary metrics)
+
+### Dhan endpoint configuration
+
+If your Dhan account/API version uses different endpoint paths or payload fields, update the `DhanAPIConfig` and request payload mapping in the adapter section of `nifty_short_straddle_backtest.py`.
